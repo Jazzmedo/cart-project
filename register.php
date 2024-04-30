@@ -55,7 +55,7 @@ if(isset($message)){
       <input type="password" name="password" required placeholder="Enter Password" class="box">
       <input type="password" name="cpassword" required placeholder="Confirm Password" class="box">
       <input type="submit" name="submit" class="btn" value="Register Now">
-      <p>already have an account? <a href="login.php">login now</a></p>
+      <p>Already Have an Account? <a href="login.php">Login Now</a></p>
    </form>
 
 </div>
